@@ -3,6 +3,10 @@ using System.Collections.Generic;
 
 namespace GameOfCoins.model
 {
+	
+/// <summary>
+///  GameOfCoinsClass: Is the class that will be used for the game rules
+/// </summary> 
     class Game
     {
         List<int> board = new List<int> { };

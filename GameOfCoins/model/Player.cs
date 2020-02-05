@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace GameOfCoins.model
 {
+/// <summary>
+///  PlayerClass: Is the class that will be used for create a user
+/// </summary> 
     class Player
     {
         string name;

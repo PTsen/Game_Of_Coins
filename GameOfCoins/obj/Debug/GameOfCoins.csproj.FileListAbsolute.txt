@@ -1,0 +1,7 @@
+C:\Users\pings\Desktop\GameOfCoins\GameOfCoins\bin\Debug\GameOfCoins.exe.config
+C:\Users\pings\Desktop\GameOfCoins\GameOfCoins\bin\Debug\GameOfCoins.exe
+C:\Users\pings\Desktop\GameOfCoins\GameOfCoins\bin\Debug\GameOfCoins.pdb
+C:\Users\pings\Desktop\GameOfCoins\GameOfCoins\obj\Debug\GameOfCoins.csprojAssemblyReference.cache
+C:\Users\pings\Desktop\GameOfCoins\GameOfCoins\obj\Debug\GameOfCoins.csproj.CoreCompileInputs.cache
+C:\Users\pings\Desktop\GameOfCoins\GameOfCoins\obj\Debug\GameOfCoins.exe
+C:\Users\pings\Desktop\GameOfCoins\GameOfCoins\obj\Debug\GameOfCoins.pdb
